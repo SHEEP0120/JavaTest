@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a59abb6-44bb-4bbb-90db-7da8d60f4a13" name="Changes" comment="加入Redis" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IQkde7ilqhiAVg3YrbhYVJjH01" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA-workspace\order_system\src\main\java\com\itheima\reggie\entity" />
+      <recent name="E:\IDEA-workspace\order_system\src\main\resources" />
+      <recent name="E:\IDEA-workspace\order_system\src\main\java\com\itheima\reggie\utils" />
+      <recent name="E:\IDEA-workspace\order_system\src\main\java\com\itheima\reggie\dto" />
+      <recent name="E:\IDEA-workspace\order_system\src\main\resources\backend\page\demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA-workspace\order_system\.idea" />
+      <recent name="E:\IDEA-workspace\order_system\src\main\java\com\itheima\reggie\entity" />
+      <recent name="E:\IDEA-workspace\order_system\src\main\java\com\itheima\reggie\common" />
+      <recent name="E:\IDEA-workspace\order_system\src\main\resource" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ReggieApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="order_system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.reggie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.reggie.ReggieApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReggieApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a59abb6-44bb-4bbb-90db-7da8d60f4a13" name="Changes" comment="" />
+      <created>1670121285030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670121285030</updated>
+      <workItem from="1670121287497" duration="17911000" />
+      <workItem from="1670225998751" duration="12610000" />
+      <workItem from="1670561596411" duration="8440000" />
+      <workItem from="1671000065400" duration="11956000" />
+      <workItem from="1671112263338" duration="4646000" />
+      <workItem from="1671287078743" duration="10938000" />
+      <workItem from="1671412476854" duration="1599000" />
+      <workItem from="1671549690574" duration="4088000" />
+      <workItem from="1671587197019" duration="1240000" />
+      <workItem from="1671713713278" duration="12515000" />
+      <workItem from="1671763897713" duration="10402000" />
+      <workItem from="1671794837587" duration="52000" />
+      <workItem from="1672290609265" duration="2806000" />
+    </task>
+    <task id="LOCAL-00001" summary="加入Redis">
+      <created>1672291398558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672291398558</updated>
+    </task>
+    <task id="LOCAL-00002" summary="加入Redis">
+      <created>1672291744271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672291744271</updated>
+    </task>
+    <task id="LOCAL-00003" summary="加入Redis">
+      <created>1672291847268</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672291847268</updated>
+    </task>
+    <task id="LOCAL-00004" summary="加入Redis">
+      <created>1672292130201</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672292130201</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="加入Redis" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入Redis" />
+  </component>
+</project>
