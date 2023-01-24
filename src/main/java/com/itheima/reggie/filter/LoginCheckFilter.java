@@ -18,7 +18,6 @@ public class LoginCheckFilter implements Filter {
     // 路径匹配，支持通配符
     public static final AntPathMatcher PATH_MATCHER = new AntPathMatcher();
 
-
     @Override
     public void doFilter(ServletRequest servletRequest, ServletResponse servletResponse, FilterChain filterChain) throws IOException, ServletException {
         HttpServletRequest request = (HttpServletRequest) servletRequest;
@@ -68,7 +67,6 @@ public class LoginCheckFilter implements Filter {
         // 5. 如果没登录，则
         response.getWriter().write(JSON.toJSONString(R.error("NOTLOGIN")));
         return;
-
     }
 
     public boolean check(String[] urls, String requestUrl){
